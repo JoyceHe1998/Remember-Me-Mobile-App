@@ -1,12 +1,14 @@
 # Remember Me Mobile App
-## A mobile app that helps people remember newly-met friends/contacts
+#### A mobile app that helps people remember newly-met friends/contacts: Do you have problems matching names to faces? If so, this app can help you remember your new contacts better by allowing you to search your contacts by their traits/where you first met/when you first met/...
 
 ## Functinalities: 
-- sign up & log in
-- add/edit/delete contact
-- timeline (your contacts listed on a timeline based on the time you first met)
-- map (your contacts listed on the map)
-- search contacts by traits (e.g. interests, eventName)
+#### - sign up & log in
+#### - add/edit/delete contacts
+#### - timeline (your contacts listed on a timeline based on the time you first met)
+#### - map (your contacts listed on the map)
+#### - search contacts by traits (e.g. interests, eventName)
+#### - mutual friends/connection 
+#### - send notifications when you are in close proximity to selected contacts
 
 ## Current Screenshots
 ### All Contacts: 
